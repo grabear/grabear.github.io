@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Rob Gilmore
-    tagline: Full Stack Developer
+    name: Robert Gilmore
+    tagline: Computational Biologist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: robert.alan.gilmore@gmail.com
+    phone: 601 790 0433
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    linkedin: robert-gilmore-7b451592
+    github: grabear
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@DarkLordKutulu'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
