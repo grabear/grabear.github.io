@@ -41,13 +41,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      As a Biological Engineer with 6+ years of combined experience in the
+      fields of molecular and computational biology, I offer suitable skillsets
+      in a range of research fields including the medical field, neuroscience,
+      genetics, cell biology, entomology, engineering, computer science, Linux
+      system administration, and supercomputing.  While effective as an independent
+      scientist, I have also found my enthusiasm for thorough research has inspired
+      others to trust my management abilities.  These experiences have also given me
+      the opportunity to take the lead on various academic and personal projects that
+      define my career.
 
 education:
     - degree: MSc in Computer Science
