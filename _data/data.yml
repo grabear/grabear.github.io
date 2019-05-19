@@ -39,7 +39,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
       As a Biological Engineer with 6+ years of combined experience in the
       fields of molecular and computational biology, I offer suitable skillsets
@@ -110,28 +110,30 @@ projects:
       organization (<a href="http://github.com/datasnakes">Datasnakes</a>).
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: renv (beRi)
+        link: "https://github.com/datasnakes/renv"
+        tagline: "A CLI for managing virtual environments for the R programming language."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: rinse (beRi)
+        link: "https://github.com/datasnakes/rinse"
+        tagline: "A CLI for installing and managing multiple installations of R."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title:
+      - title: beRi
+        link: "https://github.com/datasnakes/beRi"
+        tagline: "A suite of command line tools for managing the R statistical programming language."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: beR - Winning Hackathon Project
+        link: "https://www.hackseq.com/"
+        tagline: "In October of 2018 Team beRi won Hackseq 2018 at the University of British Columbia in Vancouver, Canada."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: beRi - ISC Grant Proposal
+        link: "https://www.datasnakes.org/beri-isc-proposal/"
+        tagline: "A grant proposal written by Team beRi for the R Consortium's ISC grant program."
 
-publications:
-  title: Presentations
+      - title: beRi - BioIT Presentation
+        link: "https://www.bio-itworldexpo.com/software"
+        tagline: "A presentation was given in Boston at the 2019 BioIT World Conference and Exposition."
 
 publications:
     title: Publications
