@@ -101,39 +101,44 @@ experiences:
           concrete, and chemical analysis of soil samples.
           - Gained valuable first hand insight into the scientific and engineering process.
 
-projects:
-    title: Projects
-    intro: >
-      Many of the projects that I work on can be found on my GitHub
-      <a href="http://github.com/grabear">profile</a>, my current lab’s GitHub organization
-      (<a href="http://github.com/vallenderlab">Vallender Lab</a>), or my personal GitHub
-      organization (<a href="http://github.com/datasnakes">Datasnakes</a>).
+professional-experiences:
+    - role: Team Leader and Winner of Hackseq’18
+      time: October 2018
+      company: University of British Columbia, Vancouver, Canada
+      details: |
+        My team’s project, “The beRi Suite of Tools”, won the first place prize at UBC’s international
+        hackathon for bioinformatics (<a href="https://www.hackseq.com/">Hackseq 2018</a>).
 
-    assignments:
-      - title: renv (beRi)
-        link: "https://github.com/datasnakes/renv"
-        tagline: "A CLI for managing virtual environments for the R programming language."
+    - role: beRi ISC Grant Proposal
+      time: November 2018
+      company: Datasnakes, International
+      details: |
+        During Hackseq 2018, the University of British Columbia’s hackathon organizers encouraged my team
+        to apply for the R Consortium’s grant program.
 
-      - title: rinse (beRi)
-        link: "https://github.com/datasnakes/rinse"
-        tagline: "A CLI for installing and managing multiple installations of R."
+          - Robert Gilmore, Bruno Grande, Shaurita Hutchins, and Santina Lin.  An ISC Proposal for BeRi Environments
+          for R Installations.
+          - While we did not receive funding this quarter, the proposal is available
+          <a href="https://www.datasnakes.org/beri-isc-proposal/">online</a>.
 
-      - title:
-      - title: beRi
-        link: "https://github.com/datasnakes/beRi"
-        tagline: "A suite of command line tools for managing the R statistical programming language."
+    - role: Bioinformatics Collaborative Founder
+      time: February 2018 - Present
+      company: University of Mississippi Medical Center
+      details: |
+        - Facilitated the creation and organization of an informal Bioinformatics club at my institution.
+        - Invited faculty from the Jackson Laboratory, the Mississippi Center for Supercomputing Research,
+        Jackson State University, and UMMC to discuss bioinformatics and supercomputing.
 
-      - title: beR - Winning Hackathon Project
-        link: "https://www.hackseq.com/"
-        tagline: "In October of 2018 Team beRi won Hackseq 2018 at the University of British Columbia in Vancouver, Canada."
-
-      - title: beRi - ISC Grant Proposal
-        link: "https://www.datasnakes.org/beri-isc-proposal/"
-        tagline: "A grant proposal written by Team beRi for the R Consortium's ISC grant program."
-
-      - title: beRi - BioIT Presentation
-        link: "https://www.bio-itworldexpo.com/software"
-        tagline: "A presentation was given in Boston at the 2019 BioIT World Conference and Exposition."
+    - role: Tutoring and Mentorship
+      time: 2016 - Present
+      company: University of Mississippi Medical Center
+      details: |
+        - Tutored an international Ph.D. student in Python per the request of the Director of the Dept. of
+        Data Science.
+        - Introduced our lab’s Ph.D. student to Python and R.
+        - Demonstrated DNA/RNA isolation and analysis techniques to various Ph.D. students.
+        - Mentored undergraduate interns and helped complete their capstone research projects.
+        - Advised various colleagues in the use of the R programming language.
 
 publications:
     title: Publications
