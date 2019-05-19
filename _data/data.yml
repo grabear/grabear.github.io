@@ -141,24 +141,93 @@ professional-experiences:
         - Advised various colleagues in the use of the R programming language.
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+  title: Publications
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+  papers:
+    - title: "MicrobiomeR: An R Package for Simplified and Standardized Microbiome Analysis Workflows."
+      authors: Gilmore RA, Hutchins SD, Zhang X, Vallender EJ.
+      conference: 2019 Mar 31.  Journal of Open Source Software, 4(35), 1299, https://doi.org/10.21105/joss.01299 (<b>published</b>)
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    - title: Alcohol-induced changes in the Gut Microbiome and Metabolome of Rhesus Macaques.
+      authors: Zhang X, Yasuda K, Gilmore RA, Westmoreland SV, Platt DM, Miller GM, Vallender EJ.
+      conference: Psychopharmacology.  2019 Mar 22.  https://doi.org/10.1007/s00213-019-05217-z (<b>submitted</b>)
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    - title: Changes in the gut microbiome of rhesus macaques associated with relocation stress.
+      authors: Zhang X, Gilmore RA, Hutchins SD, Vallender EJ.
+      conference: (<b>in submission</b>)
+
+    - title: Gene expression differences in the prefrontal cortex associated with suicidality and impulsivity.
+      authors: Vallender EJ, Gilmore RA, Hutchins SD, Zhang X, Mahajan GJ, Athey AJ, Overholser JC, Jurjus G,
+      Dieter L, Rajkowska G, Stockmeier CA.
+      conference: (<b>in preparation</b>)
+
+    - title: "Dopamine D4 receptor genetic variation in rhesus macaques: Functional and behavioral consequences"
+      authors: Ogawa LM, Hutchins SD, Gilmore RA, Lynch LJ, Schimmel JL, Vallender EJ.
+      conference: (<b>in preparation</b>)
+
+    - title: Genetic influences on mu opioid receptor ligand biased signaling.
+      authors: Zhang X, Hutchins SD, Gilmore RA, Vallender EJ.
+      conference: (<b>in preparation</b>)
+
+presentations:
+  title: Presentations
+
+  papers:
+    - title: Waiting Room Pager System for a Better Patient Experience.
+      authors: Robert Gilmore.
+      conference: Partners Innovating Technology to Change Healthcare (PITCH) Competition, Jackson, MS., 2019.
+
+    - title: "beRi: A Suite of Command Line Tools for Managing R."
+      authors: Robert Gilmore, Shaurita Hutchins, Bruno Grande, Santina Lin.
+      conference: BioIT World Conference and Exposition, Boston, MA. 2019.
+
+    - title: "Effects of genetic polymorphism on ligand-biased signaling: Mu-opioid receptor."
+      authors: Xiao Zhang, Robert Gilmore, Shaurita Hutchins, Eric Vallender.
+      conference: College on Problems of Drug Dependence, San Antonio, TX.  2019.
+
+    - title: Gene expression in the prefrontal cortex associated with impulsivity.
+      authors: Vallender EJ, Gilmore RA, Hutchins SD, Zhang X, Mahajan GJ, Athey AJ, Overholser JC, Jurjus G,
+        Dieter L, Rajkowska G, Stockmeier CA.
+      conference: NIDA Genetics Consortium Meeting, Bethesda, MD.  2019.
+
+    - title: Gene expression in the prefrontal cortex associated with impulsivity.
+      authors: Vallender EJ, Gilmore RA, Hutchins SD, Zhang X, Mahajan GJ, Athey AJ, Overholser JC, Jurjus G,
+        Dieter L, Rajkowska G, Stockmeier CA.
+      conference: College on Problems of Drug Dependence, San Diego, CA.  2018.
+
+    - title: Genetic effects on mu-opioid receptor ligand-biased signaling.
+      authors: Xiao Zhang, Shaurita Hutchins, Robert Gilmore, Eric Vallender.
+      conference: Society for Neuroscience, San Diego, CA.  2018
+
+    - title: Introducing the UMMC Bioinformatics Collaborative.
+      authors: Robert Gilmore, Shaurita Hutchins.
+      conference: University of Mississippi Medical Center Seminar, Jackson, MS. 2017
+
+    - title: Genetic Effects on Mu-Opioid Receptor Ligand Biased Signaling.
+      authors: Xiao Zhang, Shaurita Hutchins, Robert Gilmore, Eric Vallender.
+      conference: Poster for the Program in Neuroscience at UMMC.  2017
+
+    - title: Differential Gene Expression in the Prefrontal Cortex Associated with Suicide.
+      authors: Zhang X, Gilmore RA, Hutchins SD, Mahajan GJ, Athey AJ, Overholser JC, Jurjus G,
+      Dieter L, Rajkowska G, Stockmeier CA, Vallender EJ.
+      conference: World Congress on Psychiatric Genetics, Orlando, FL.  2017
+
+    - title: Comparative mammalian genetics of addiction disorders.
+      authors: Vallender EJ, Gilmore RA, Hutchins SD, Zhang X.
+      conference: College on Problems of Drug Dependence, Montreal, QB.  2017.
+
+    - title: Ligand bias on GPCR signaling pathways in mu-opioid receptors.
+      authors: Xiao Zhang, Shaurita Hutchins, Robert Gilmore, Eric Vallender.
+      conference: Poster for the Program in Neuroscience at UMMC.  2016
+
+    - title: "An Estimation of Temperature Limits for the Tawny Crazy Ant, Nylanderia fulva
+    (Hymenoptera: Formicidae)."
+      authors: David C. Cross and Michael A. Caprio.
+      conference: Final poster for the Dept. of Biochemistry, Molecular Biology, Entomology, and Plant Pathology.  2017
+
+    - title: "A Comprehensive Genetic Assay for United States Native and Imported Fire Ant Species (Formicidae: Solenopsis)."
+      authors: David C. Cross and Michael A. Caprio.
+      conference: Poster for the International Congress of Entomology.  2016
 
 skills:
     title: Skills &amp; Proficiency
@@ -181,6 +250,32 @@ skills:
 
       - name: Sketch & Photoshop
         level: 60%
+
+projects:
+  title: Projects
+  intro: >
+    Many of the projects that I work on can be found on my GitHub
+    <a href="http://github.com/grabear">profile</a>, my current lab’s GitHub organization
+    (<a href="http://github.com/vallenderlab">Vallender Lab</a>), or my personal GitHub
+    organization (<a href="http://github.com/datasnakes">Datasnakes</a>).
+
+  assignments:
+    - title: renv (beRi)
+      link: "https://github.com/datasnakes/renv"
+      tagline: "A CLI for managing virtual environments for the R programming language."
+
+    - title: rinse (beRi)
+      link: "https://github.com/datasnakes/rinse"
+      tagline: "A CLI for installing and managing multiple installations of R."
+
+    - title:
+    - title: beRi
+      link: "https://github.com/datasnakes/beRi"
+      tagline: "A suite of command line tools for managing the R statistical programming language."
+
+    - title: beRi - BioIT Presentation
+      link: "https://www.bio-itworldexpo.com/software"
+      tagline: "A presentation was given in Boston at the 2019 BioIT World Conference and Exposition."
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
