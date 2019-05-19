@@ -104,9 +104,10 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Many of the projects that I work on can be found on my GitHub
+      <a href="http://github.com/grabear">profile</a>, my current lab’s GitHub organization
+      (<a href="http://github.com/vallenderlab">Vallender Lab</a>), or my personal GitHub
+      organization (<a href="http://github.com/datasnakes">Datasnakes</a>).
 
     assignments:
       - title: Velocity
