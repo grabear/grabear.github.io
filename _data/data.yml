@@ -57,7 +57,7 @@ education:
       time: 2008 - 2013
 
 experiences:
-    - role: Researcher II
+    - role: <b>Researcher II</b>
       time: April 2015 - Present
       company: University of Mississippi Medical Center, Jackson, MS
       details: |
@@ -77,7 +77,7 @@ experiences:
           - Provided support for stable cell line generation, transfection, transient
           transfection, transduction, pathway array plate assays, and ligand validation.
 
-    - role: Lab Technician
+    - role: <b>Lab Technician</b>
       time: May 2013 - Jan 2015
       company: Mississippi State University, Starkville, MS
       details: |
@@ -89,7 +89,7 @@ experiences:
           - Enhanced project management abilities under supervision from the principal
           investigator.
 
-    - role: Engineering Technician
+    - role: <b>Engineering Technician</b>
       time: May 2009 - Dec 2012
       company: Engineering Research and Development Center, Vicksburg, MS
       details: |
@@ -102,14 +102,14 @@ experiences:
           - Gained valuable first hand insight into the scientific and engineering process.
 
 professional-experiences:
-    - role: Team Leader and Winner of Hackseq’18
+    - role: <b>Team Leader and Winner of Hackseq’18</b>
       time: October 2018
       company: University of British Columbia, Vancouver, Canada
       details: |
         My team’s project, “The beRi Suite of Tools”, won the first place prize at UBC’s international
         hackathon for bioinformatics (<a href="https://www.hackseq.com/">Hackseq 2018</a>).
 
-    - role: beRi ISC Grant Proposal
+    - role: <b>beRi ISC Grant Proposal</b>
       time: November 2018
       company: Datasnakes, International
       details: |
@@ -121,7 +121,7 @@ professional-experiences:
           - While we did not receive funding this quarter, the proposal is available
           <a href="https://www.datasnakes.org/beri-isc-proposal/">online</a>.
 
-    - role: Bioinformatics Collaborative Founder
+    - role: <b>Bioinformatics Collaborative Founder</b>
       time: February 2018 - Present
       company: University of Mississippi Medical Center
       details: |
@@ -129,7 +129,7 @@ professional-experiences:
         - Invited faculty from the Jackson Laboratory, the Mississippi Center for Supercomputing Research,
         Jackson State University, and UMMC to discuss bioinformatics and supercomputing.
 
-    - role: Tutoring and Mentorship
+    - role: <b>Tutoring and Mentorship</b>
       time: 2016 - Present
       company: University of Mississippi Medical Center
       details: |
