@@ -57,22 +57,25 @@ education:
       time: 2008 - 2013
 
 experiences:
-    - role: Lead Developer
+    - role: Researcher II
       time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      company: University of Mississippi Medical Center, Jackson, Mississippi
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        As a Researcher II I worked in a molecular genetics lab focused on
+        psychiatric disorderes in non-human primates.  Durring my time at UMMC,
+        my primary role was the acting as computational and molecular biologist.
 
-          - Bullet point
-          - Bullet point
+          - Worked indirectly with rhesus monkeys to study the genetic underpinnings
+          of psychiatric disorders including addiction, depression, impulsivity,
+          suicidality, and other human behaviors using non-human primate models.
+          - Developed and maintained projects, pipelines, and computing systems for
+          phylogenetic, differential RNA expression, microbiome, and other bioinformatics
+          research.
+          - Isolation of large quantities of rhesus macaque DNA/RNA used in genotyping
+          and gene expression assays including PCR, qPCR, RFLP, Sanger sequencing, and
+          next-generation sequencing.
+          - Provided support for stable cell line generation, transfection, transient
+          transfection, transduction, pathway array plate assays, and ligand validation.
 
     - role: Senior Software Engineer
       time: 2014 - 2015
