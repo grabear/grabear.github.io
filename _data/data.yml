@@ -58,12 +58,12 @@ education:
 
 experiences:
     - role: Researcher II
-      time: 2015 - Present
-      company: University of Mississippi Medical Center, Jackson, Mississippi
+      time: April 2015 - Present
+      company: University of Mississippi Medical Center, Jackson, MS
       details: |
         As a Researcher II I worked in a molecular genetics lab focused on
         psychiatric disorderes in non-human primates.  Durring my time at UMMC,
-        my primary role was the acting as computational and molecular biologist.
+        my primary role was the acting computational and molecular biologist.
 
           - Worked indirectly with rhesus monkeys to study the genetic underpinnings
           of psychiatric disorders including addiction, depression, impulsivity,
@@ -77,31 +77,29 @@ experiences:
           - Provided support for stable cell line generation, transfection, transient
           transfection, transduction, pathway array plate assays, and ligand validation.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Lab Technician
+      time: May 2013 - Jan 2015
+      company: Mississippi State University, Starkville, MS
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        As a Lab Technician at MSU I was primarily tasked at processing entomological
+        samples to further various research projects.
 
-          - Bullet point
-          - Bullet point
+          - Established working knowledge of genetics, molecular biology, biochemistry,
+          and wet lab techniques in a lab focused on invasive ant species.
+          - Enhanced project management abilities under supervision from the principal
+          investigator.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Engineering Technician
+      time: May 2009 - Dec 2012
+      company: Engineering Research and Development Center, Vicksburg, MS
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        As a student engineering intern I was given the opportunity to participate in real
+        world engineering programs.
 
-          - Bullet point
-          - Bullet point
+          - Supported the projects of world-class engineering mentors involved in land vehicle
+          simulations, a physiological analysis of alligator gar scales, mechanical analysis of
+          concrete, and chemical analysis of soil samples.
+          - Gained valuable first hand insight into the scientific and engineering process.
 
 projects:
     title: Projects
